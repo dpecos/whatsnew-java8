@@ -1,4 +1,4 @@
 package com.danielpecos.java8.lambdas;
 
-public class Lambda_04_sam {
+public class Lambda_04_finterfaces {
 }

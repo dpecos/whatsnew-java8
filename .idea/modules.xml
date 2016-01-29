@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/refactorJava8.iml" filepath="$PROJECT_DIR$/refactorJava8.iml" />
+      <module fileurl="file:///devel/projects/whatsnew-java8/whatsnew-java8.iml" filepath="/devel/projects/whatsnew-java8/whatsnew-java8.iml" />
     </modules>
   </component>
 </project>
