@@ -25,7 +25,13 @@ public class Lambda_03_sort {
             }
         });
 
-        lines.sort((o1, o2) -> o1.compareTo(o2));
+        lines.forEach(System.out::println);
+
+        System.out.println("----");
+
+        lines.sort((o1, o2) -> o1.compareToIgnoreCase(o2));
+
+        lines.forEach(System.out::println);
     }
 
 }
