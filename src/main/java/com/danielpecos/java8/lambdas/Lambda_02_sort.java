@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 
-public class Lambda_03_sort {
+public class Lambda_02_sort {
 
     public static void main(String[] args) {
         List<String> lines = new ArrayList<>();

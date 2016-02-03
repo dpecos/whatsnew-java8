@@ -2,7 +2,7 @@ package com.danielpecos.java8.lambdas;
 
 import java.util.function.*;
 
-public class Lambda_05_finterfaces {
+public class Lambda_06_finterface {
 
     public static void main(String[] args) {
 

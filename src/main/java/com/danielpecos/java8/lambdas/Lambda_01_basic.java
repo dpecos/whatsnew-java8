@@ -1,6 +1,6 @@
 package com.danielpecos.java8.lambdas;
 
-public class Lambda_01_baisc {
+public class Lambda_01_basic {
 
     public static void launchJob() {
         Runnable r = new Runnable() {

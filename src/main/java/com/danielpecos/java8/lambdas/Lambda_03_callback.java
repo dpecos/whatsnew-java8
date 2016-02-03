@@ -7,7 +7,7 @@ interface DataProcessor {
     void processData(List<String> data);
 }
 
-public class Lambda_02_callback {
+public class Lambda_03_callback {
 
     public static void longOperation(DataProcessor processor) {
         try {
