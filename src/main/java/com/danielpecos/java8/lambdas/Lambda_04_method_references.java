@@ -1,5 +1,7 @@
 package com.danielpecos.java8.lambdas;
 
+import com.danielpecos.java8.common.Person;
+
 import java.util.function.BiFunction;
 import java.util.function.Supplier;
 
