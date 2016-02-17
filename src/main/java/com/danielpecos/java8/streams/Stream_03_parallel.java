@@ -5,7 +5,7 @@ import java.util.stream.IntStream;
 
 import static java.util.stream.IntStream.range;
 
-public class Stream_02_parallel {
+public class Stream_03_parallel {
 
     public static final int NUMBERS_TO_PROCESS = 1_000_000_000;
 
